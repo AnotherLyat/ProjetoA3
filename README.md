@@ -7,3 +7,4 @@ Gabriel Carvalho - RA: 821218003
 Miro Santos Teixeira - RA: 821139946
 Vanessa da Silva - RA: 821115430
 Vítor Manzaro - RA: 821140184
+Leonardo Tanaka - RA: 821131703
